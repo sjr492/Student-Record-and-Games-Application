@@ -1,0 +1,6 @@
+1
+Alex Example, alex@example.com, Computer Science, 100001
+2
+CSC115, 3, A
+MTH161, 4, B+
+9
